@@ -2,15 +2,15 @@
 
 Libraries
 ---------
-  numpy
-  pandas
-  matplotlib
-  sklearn
-  scipy
-  tqdm
-  seaborn
-  datetime
-  math
+  numpy,
+  pandas,
+  matplotlib,
+  sklearn,
+  scipy,
+  tqdm,
+  seaborn,
+  datetime,
+  math,
   warnings
   
 Motivation 
