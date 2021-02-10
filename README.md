@@ -16,6 +16,7 @@ Libraries
 Motivation 
 ---------
   The motivation for the project (this should be a bit more detail -- why was this project chosen?)
+  
   The project is part of the Udacity course Data Science Nanodegree. The dataset was choosen due to the curiosity to understand the shared bikes dynamic as the author has been using it  for a while.
 
 Files
