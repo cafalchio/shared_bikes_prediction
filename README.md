@@ -21,7 +21,9 @@ Motivation
 Files
 ---------
   blog_regression.ipynb - jupyter notebook containing the analysis
+  
   hour.csv - csv file containing the data sampled hourly
+  
   bikes_day.csv - csv file containing the data sampled daily
   
 Summary
