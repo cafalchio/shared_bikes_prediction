@@ -1,4 +1,4 @@
-# audacity_project1
+# Shared bikes: A prediction based on wheater data
 
 Libraries
 ---------
