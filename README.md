@@ -15,9 +15,7 @@ Libraries
   
 Motivation 
 ---------
-  The motivation for the project (this should be a bit more detail -- why was this project chosen?)
-  
-  The project is part of the Udacity course Data Science Nanodegree. The dataset was choosen due to the curiosity to understand the shared bikes dynamic as the author has been using it  for a while.
+  My major motivation was my personal use of shared bikes. As a user, I did not understand why sometimes all the bikes are gone at the station close to my home. The project here give a better idea of when the bikes are used.
 
 Files
 ---------
@@ -31,4 +29,4 @@ Summary
 ---------
 1. Data exploration and explotatory analysis
 2. Showing that temperature affects bike renting daily and working day the hourly data
-3. Two models that predicted the amount of bikes daily and hourly
+3. Two models that predicted the amount of bikes daily and hourly with great precision
