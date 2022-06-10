@@ -1,5 +1,7 @@
 # Shared bikes: A prediction based on wheater data
 
+It is an intersting dataset in which wheater data was recorded together with the use of shared bikes. The XGboost regression model got 95% r2 score.
+
 Libraries
 ---------
   numpy,
