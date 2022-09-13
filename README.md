@@ -4,17 +4,17 @@ It is an intersting dataset in which wheater data was recorded together with the
 
 Libraries
 ---------
->
-  numpy,
-  pandas,
-  matplotlib,
-  sklearn,
-  scipy,
-  tqdm,
-  seaborn,
-  datetime,
-  math,
-  warnings
+
+ * numpy,
+ * pandas,
+ * matplotlib,
+ * sklearn,
+ * scipy,
+ * tqdm,
+ * seaborn,
+ * datetime,
+ * math,
+ * warnings
   
 Motivation 
 ---------
